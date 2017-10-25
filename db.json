@@ -1,0 +1,32 @@
+{
+  "teams":[
+    {
+      "name":"Liverpool",
+      "id":1,
+      "stadium":"Anfield"
+    },
+    {
+      "name":"Arsenal",
+      "id":2,
+      "stadium":"Emirates"
+    },
+    {
+      "name":"Chelsea",
+      "id":3,
+      "stadium":"Stamford Bridge"
+    },
+    {
+      "name":"Wolverhampton",
+      "id":4,
+      "stadium":"Molineux"
+    },
+    {
+      "name":"Manchester City",
+      "id":5,
+      "stadium":"Etihad"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
